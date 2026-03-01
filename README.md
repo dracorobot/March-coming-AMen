@@ -18,3 +18,4 @@ DOllar ands money
 $$$$$$$$$$$$$$
 Airdropss
 Cash cash CA$H
+GOD BLESS
