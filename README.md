@@ -11,3 +11,4 @@ Clarity
 Work
 Health
 Health x2
+Wealth
