@@ -5,3 +5,4 @@ money
 oportunities
 PLata
 Dinero
+BLessings
