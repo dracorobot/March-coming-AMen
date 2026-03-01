@@ -15,3 +15,4 @@ Wealth
 HealT
 Money and Dollars
 DOllar ands money
+$$$$$$$$$$$$$$
