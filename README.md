@@ -12,3 +12,4 @@ Work
 Health
 Health x2
 Wealth
+HealT
