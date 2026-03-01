@@ -7,3 +7,4 @@ PLata
 Dinero
 BLessings
 ·$$$$$$·
+Clarity
