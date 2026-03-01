@@ -13,3 +13,4 @@ Health
 Health x2
 Wealth
 HealT
+Money and Dollars
