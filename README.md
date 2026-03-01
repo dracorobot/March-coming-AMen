@@ -17,3 +17,4 @@ Money and Dollars
 DOllar ands money
 $$$$$$$$$$$$$$
 Airdropss
+Cash cash CA$H
